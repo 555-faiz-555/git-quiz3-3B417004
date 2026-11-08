@@ -13,3 +13,6 @@ venv/
 # 作業系統檔案
 .DS_Store
 Thumbs.db
+
+__pycache__/
+*.py[cod]
